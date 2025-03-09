@@ -12,7 +12,6 @@ app = Flask(__name__)
 def home():
     return "Aplicação no Elastic Beanstalk funcionando! teste"
 
-
 # Carregar o arquivo corrigido
 file_path = 'projetos_culturais_ilhabela_corrigido.csv'
 df = pd.read_csv(file_path)

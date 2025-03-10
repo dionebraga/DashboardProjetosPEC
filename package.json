@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/dionebraga/DashboardProjetosPEC#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.0"
